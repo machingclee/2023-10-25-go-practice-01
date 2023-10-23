@@ -1,0 +1,2 @@
+# rssagg
+Experiment with go
